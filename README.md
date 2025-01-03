@@ -36,5 +36,6 @@ then the following files is generated in a directory `./result/pf-linear_d3_n100
 + `id = 0` the random seed is $0$. 
 
 The gray points are the original point set and the blue points are the selected point subset:
-
-<img src="example.png" width="50%">
+<div align="center">
+    <img src="example.png" width="50%">
+</div>
