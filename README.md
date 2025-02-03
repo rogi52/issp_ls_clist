@@ -1,8 +1,7 @@
 # issp_ls_clist
-
 This repository provides the C++ implementation of faster local search for indicator-based subset selection problem proposed in the following paper:
 
-> TODO: paper info
+> Keisuke Korogi, Ryoji Tanabe: Speeding up Local Search for the Indicator-based Subset Selection Problem by a Candidate List Strategy, IEEE Transactions on Evolutionary Computation
 
 
 # Requirements
